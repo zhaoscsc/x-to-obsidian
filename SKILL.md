@@ -114,6 +114,16 @@ modified: YYYY-MM-DD
 
 ## Example Usage
 
+### Quick Trigger (快捷触发)
+
+When user says "保存 + x.com链接", directly call this skill:
+
+User says:
+- "保存 https://x.com/user/status/123"
+- "保存这个: https://x.com/..."
+
+### Standard Usage
+
 User says:
 - "Save this X post: https://x.com/user/status/123"
 - "Save this tweet to Obsidian"
