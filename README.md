@@ -220,6 +220,18 @@ Powered by [agent-browser](https://github.com/BUNotesAI/agent-browser-userdata).
 
 ## 使用方法
 
+### 快捷触发（推荐）
+
+当你说"保存 + x.com链接"时，Claude 会自动调用此 skill：
+
+```
+保存 https://x.com/user/status/123456
+```
+
+```
+保存这个: https://x.com/user/status/123456
+```
+
 ### 基本用法
 
 直接告诉 Claude Code 保存 X 帖子：
